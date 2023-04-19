@@ -17,7 +17,7 @@ charites
 ### 目次  
 #### 茨城県
 - 水戸市  
-Z1-z16  
-URL:https://magn01ia.github.io/fude-vt/zxy/mito/{z}/{x}/{y}.pbf  
-Style(作成中)
+zoom：1-16  
+url:https://magn01ia.github.io/fude-vt/zxy/mito/{z}/{x}/{y}.pbf  
+style(作成中)
 
